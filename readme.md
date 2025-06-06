@@ -31,4 +31,4 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ---
 
-*Internship assignment at Sparrow Softtech (Bhavnagar).*
+*Internship assignment at Sparrow Softtech (Bhavnagar, Gujarat-IN).*
