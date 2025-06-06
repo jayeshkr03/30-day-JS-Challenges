@@ -16,7 +16,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 &nbsp;&nbsp;&nbsp;&nbsp;• Number guessing game
 
 🌐 **DOM Manipulation:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Event handling and dynamic UI
+&nbsp;&nbsp;&nbsp;&nbsp;• Event handling
 
 💻 **Command-Line I/O:**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Using Node.js (`readline`)
