@@ -1,10 +1,10 @@
-# 30-Day JavaScript Mastery Challenge
+# 15-Day JavaScript Mastery Challenge
 
-Welcome to my 30-day JavaScript Mastery Challenge! This challenge was given to me as an intern at **Sparrow Softtech (Bhavnagar)** to help sharpen my JavaScript skills through daily hands-on tasks.
+Welcome to my 15-day JavaScript Mastery Challenge! This challenge was given to me as an intern at **Sparrow Softtech (Bhavnagar)** to help sharpen my JavaScript skills through daily hands-on tasks.
 
 ## About the Challenge
 
-Over the course of 30 days, I am tackling a variety of JavaScript problems and mini-projects. Each day brings a new challenge, helping me build a strong foundation in JavaScript fundamentals and practical coding.
+Over the course of 15 days, I am tackling a variety of JavaScript problems and mini-projects. Each day brings a new challenge, helping me build a strong foundation in JavaScript fundamentals and practical coding.
 
 ## Progress At a Glance
 
