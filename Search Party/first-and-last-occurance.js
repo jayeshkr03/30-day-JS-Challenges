@@ -2,6 +2,7 @@ function findFirstAndLastOccurrence(arr, target) {
     let first = -1;
     let last = -1;
 
+    // Find first occurrence
     let left = 0;
     let right = arr.length - 1;
     while (left <= right) {
@@ -16,6 +17,7 @@ function findFirstAndLastOccurrence(arr, target) {
         }
     }
 
+    // Find last occurrence
     left = 0;
     right = arr.length - 1;
     while (left <= right) {
@@ -44,3 +46,6 @@ else {
     console.log(`Element ${target} not found in the array.`);
 }
 
+// Output:
+// First occurrence of 4 is at index: 4
+// Last occurrence of 4 is at index: 5
