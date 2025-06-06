@@ -8,10 +8,15 @@ Over the course of 30 days, I am tackling a variety of JavaScript problems and m
 
 ## Progress At a Glance
 
-- Completed daily coding exercises covering topics like variables, functions, arrays, and objects.
-- Built small projects such as calculators, to-do lists, and interactive web components.
-- Practiced DOM manipulation and event handling.
-- Improved problem-solving skills with algorithmic challenges.
+- Mastered variables, data types, and operators.
+- Practiced writing and using functions, including arrow functions.
+- Explored arrays and objects, including sorting and searching algorithms.
+- Built small projects: calculator, to-do list, and number guessing game.
+- Implemented DOM manipulation and event handling.
+- Solved algorithmic challenges: linear search, object sorting, and more.
+- Used Node.js for command-line input and output.
+- Improved code readability with console.table and clean output formatting.
+- Documented daily progress and solutions in this repository.
 
 Stay tuned as I continue to update this repository with new solutions and projects throughout the challenge!
 
