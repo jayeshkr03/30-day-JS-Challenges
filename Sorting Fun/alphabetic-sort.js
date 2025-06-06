@@ -12,6 +12,4 @@ export function alphabeticSort(arr) {
 
 
 const stringArray = ["banana", "apple", "orange", "grape"];
-console.log("Sorted array: " + alphabeticSort(stringArray));
-
-
+console.log("Sorted array: ", alphabeticSort(stringArray));
