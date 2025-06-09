@@ -8,3 +8,6 @@ function fibonacci(n) {
 }
 
 console.log(fibonacci(10))
+
+// Output:
+// 55
