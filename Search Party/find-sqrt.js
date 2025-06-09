@@ -1,4 +1,6 @@
-// Function to calculate the integer square root of a number using binary search
+// *Same as Maths and Logic boost > sqrt.js Program.
+
+// Find square root using binary search
 function sqrt(num) {
     if (num < 0) return "No square root for negative numbers"; // Negative numbers don't have real square roots
     if (num === 0 || num === 1) return num; // Square root of 0 or 1 is the number itself
