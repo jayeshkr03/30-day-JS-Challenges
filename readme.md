@@ -9,7 +9,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ---
 
-## 🧮 Sorting & Searching
+### 🧮 Sorting & Searching
 - Linear/Object Sort
 - Binary Search
 - Quick Sort
@@ -20,7 +20,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Object Sort
 - Alphabetic Sort
 
-## 📚 Array Mastery
+### 📚 Array Mastery
 - Find Missing Numbers
 - Frequency
 - Largest/Smallest
@@ -31,7 +31,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Sum of Array Numbers
 - Sorted Array Checks
 
-## ✨ String Power
+### ✨ String Power
 - Remove Duplicate Chars
 - Count Char Frequency
 - Substring Finder
@@ -43,7 +43,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Anagram Checker
 - Capitalize First Letters
 
-## 🔍 Search Party
+### 🔍 Search Party
 - Linear Search
 - Binary Search
 - Peak Element
@@ -55,7 +55,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - 2D Matrix Search
 - Find Sqrt
 
-## 🗂️ Set & Map
+### 🗂️ Set & Map
 - Frequency
 - Remove Duplicates
 - Intersection
@@ -66,7 +66,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Anagram Grouping
 - Longest Substring Length
 
-## 🧠 Math & Logic Boost
+### 🧠 Math & Logic Boost
 - Prime Check
 - GCD/LCM
 - Armstrong
