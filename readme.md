@@ -8,7 +8,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 &nbsp;&nbsp;&nbsp;&nbsp;• Variables, data types, operators, functions, arrays, and objects
 
 🔎 **Algorithms:**  
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><strong>Sorting & Searching</strong></summary>
 <ul>
   <li>Linear/Object Sort</li>
@@ -23,7 +23,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </ul>
 </details>
 
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><strong>Array Mastery</strong></summary>
 <ul>
   <li>Find Missing Numbers</li>
@@ -38,7 +38,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </ul>
 </details>
 
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><strong>String Power</strong></summary>
 <ul>
   <li>Remove Duplicate Chars</li>
@@ -54,7 +54,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </ul>
 </details>
 
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><strong>Search Party</strong></summary>
 <ul>
   <li>Linear Search</li>
@@ -70,7 +70,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </ul>
 </details>
 
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><strong>Set & Map</strong></summary>
 <ul>
   <li>Frequency</li>
@@ -85,7 +85,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </ul>
 </details>
 
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary><strong>Math & Logic Boost</strong></summary>
 <ul>
   <li>Prime Check</li>
