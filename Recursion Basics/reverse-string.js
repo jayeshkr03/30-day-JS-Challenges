@@ -8,7 +8,7 @@ function reverseString(str) {
   }
 }
 
-const names = "sandeep prasad";
+const names = "hello javascript html and css all";
 console.log(reverseString(names));
 
 // Output:
