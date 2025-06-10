@@ -106,6 +106,6 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 💬 **Well-Commented Code:**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Every file includes clear, helpful comments
 
----
+***
 
 *Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/) (Bhavnagar, Gujarat-IN).*
