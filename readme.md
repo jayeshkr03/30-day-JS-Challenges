@@ -8,12 +8,96 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 &nbsp;&nbsp;&nbsp;&nbsp;• Variables, data types, operators, functions, arrays, and objects
 
 🔎 **Algorithms:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Sorting and searching (linear/object sort, binary search, quick sort, merge sort, selection sort, insertion sort, bubble sort, object sort, alphabetic sort)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Array mastery (find missing numbers, frequency, largest/smallest, merge sorted arrays, remove duplicates, reverse/rotate array, second largest, sum of array numbers, sorted array checks)  
-&nbsp;&nbsp;&nbsp;&nbsp;• String power (remove duplicate chars, count char frequency, substring finder, first non-repeat char, reverse word sequence, palindrome, balanced parenthesis, longest word, anagram checker, capitalize first letters)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Search party (linear search, binary search, peak element, rotated array search, guess the number, first/last occurrence, find pair with sum, count occurrences, 2D matrix search, find sqrt)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Set & Map (frequency, remove duplicates, intersection, union, repeated, has sum, two/four sum, anagram grouping, longest substring length)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Math and logic boost (prime check, GCD/LCM, Armstrong, sum/reverse digits, power calculation, decimal to binary, fizzbuzz, sqrt)
+<details>
+<summary><strong>Sorting & Searching</strong></summary>
+<ul>
+  <li>Linear/Object Sort</li>
+  <li>Binary Search</li>
+  <li>Quick Sort</li>
+  <li>Merge Sort</li>
+  <li>Selection Sort</li>
+  <li>Insertion Sort</li>
+  <li>Bubble Sort</li>
+  <li>Object Sort</li>
+  <li>Alphabetic Sort</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Array Mastery</strong></summary>
+<ul>
+  <li>Find Missing Numbers</li>
+  <li>Frequency</li>
+  <li>Largest/Smallest</li>
+  <li>Merge Sorted Arrays</li>
+  <li>Remove Duplicates</li>
+  <li>Reverse/Rotate Array</li>
+  <li>Second Largest</li>
+  <li>Sum of Array Numbers</li>
+  <li>Sorted Array Checks</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>String Power</strong></summary>
+<ul>
+  <li>Remove Duplicate Chars</li>
+  <li>Count Char Frequency</li>
+  <li>Substring Finder</li>
+  <li>First Non-Repeat Char</li>
+  <li>Reverse Word Sequence</li>
+  <li>Palindrome</li>
+  <li>Balanced Parenthesis</li>
+  <li>Longest Word</li>
+  <li>Anagram Checker</li>
+  <li>Capitalize First Letters</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Search Party</strong></summary>
+<ul>
+  <li>Linear Search</li>
+  <li>Binary Search</li>
+  <li>Peak Element</li>
+  <li>Rotated Array Search</li>
+  <li>Guess the Number</li>
+  <li>First/Last Occurrence</li>
+  <li>Find Pair with Sum</li>
+  <li>Count Occurrences</li>
+  <li>2D Matrix Search</li>
+  <li>Find Sqrt</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Set & Map</strong></summary>
+<ul>
+  <li>Frequency</li>
+  <li>Remove Duplicates</li>
+  <li>Intersection</li>
+  <li>Union</li>
+  <li>Repeated</li>
+  <li>Has Sum</li>
+  <li>Two/Four Sum</li>
+  <li>Anagram Grouping</li>
+  <li>Longest Substring Length</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Math & Logic Boost</strong></summary>
+<ul>
+  <li>Prime Check</li>
+  <li>GCD/LCM</li>
+  <li>Armstrong</li>
+  <li>Sum/Reverse Digits</li>
+  <li>Power Calculation</li>
+  <li>Decimal to Binary</li>
+  <li>FizzBuzz</li>
+  <li>Sqrt</li>
+</ul>
+</details>
 
 🛠️ **Mini Projects:**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Calculator  
