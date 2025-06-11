@@ -101,7 +101,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 &nbsp;&nbsp;&nbsp;&nbsp;• map, filter, reduce, find, some, every, keys, count frequency, chain map/filter, grouping
 
 🗃️ **Object & JSON:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Object to array, sum object values, swap key/value, filter keys by value
+&nbsp;&nbsp;&nbsp;&nbsp;• Object to array, sum object values, swap key/value, filter keys by value, deep clone, merge objects, fetch & parse JSON
 
 💬 **Well-Commented Code:**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Every file includes clear, helpful comments
