@@ -1,43 +1,21 @@
-// reverse linked list
+// Reverse linked list using recursion
 
-class Node {
-    constructor(newData) {
-        this.data = newData;
-        this.next = null;
-    }
+function reverse(head) {
+  let prev = null;
+  while (head) {
+    [head.next, prev, head] = [prev, head, head.next];
+  }
+  return prev;
 }
 
-function reverseList(head) {
-    let curr = head;
-    let prev = null;
-    let next;
-    while (curr !== null) {
-        next = curr.next;
-        curr.next = prev;
-        prev = curr;
-        curr = next;
-    }
-    return prev;
+// Example usage:
+function ListNode(val, next = null) {
+  this.val = val;
+  this.next = next;
 }
-
-function printList(node) {
-    while (node !== null) {
-        console.log(" " + node.data);
-        node = node.next;
-    }
-    console.log();
+let list = new ListNode(1, new ListNode(2, new ListNode(3)));
+let reversed = reverse(list);
+while (reversed) {
+  console.log(reversed.val);
+  reversed = reversed.next;
 }
-
-let head = new Node(1);
-head.next = new Node(2);
-head.next.next = new Node(3);
-head.next.next.next = new Node(4);
-head.next.next.next.next = new Node(5);
-
-console.log("Given Linked list:");
-printList(head);
-
-head = reverseList(head);
-
-console.log("Reversed Linked List:");
-printList(head);
