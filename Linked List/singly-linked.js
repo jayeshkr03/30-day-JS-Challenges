@@ -28,5 +28,10 @@ class SinglyLinkedList{
     this.length++
      this
   }
-}
 
+  pop {
+    if(!this.head) return undefined;
+    var current = this.head;
+    
+  }
+}
