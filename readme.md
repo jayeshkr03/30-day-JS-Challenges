@@ -9,99 +9,144 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ---
 
-### 🧮 Sorting & Searching
-- Linear/Object Sort
-- Binary Search
-- Quick Sort
-- Merge Sort
-- Selection Sort
-- Insertion Sort
-- Bubble Sort
-- Object Sort
-- Alphabetic Sort
-
 ### 📚 Array Mastery
-- Find Missing Numbers
-- Frequency
-- Largest/Smallest
-- Merge Sorted Arrays
-- Remove Duplicates
-- Reverse/Rotate Array
-- Second Largest
-- Sum of Array Numbers
-- Sorted Array Checks
+- [find-missing-numbers.js](Array%20Mastery/find-missing-numbers.js)
+- frequency.js
+- largest-smallest.js
+- merge-sorted-arr.js
+- remove-duplicates.js
+- reverse-array.js
+- rotate-array.js
+- second-largest-number.js
+- sum-array-numbers.js
+- sorted-array.js
+
+### 🧮 Sorting Fun
+- alphabetic-sort.js
+- bubble.js
+- insertion.js
+- linear-object-sort.js
+- merge.js
+- object-sort.js
+- quick.js
+- selection.js
 
 ### ✨ String Power
-- Remove Duplicate Chars
-- Count Char Frequency
-- Substring Finder
-- First Non-Repeat Char
-- Reverse Word Sequence
-- Palindrome
-- Balanced Parenthesis
-- Longest Word
-- Anagram Checker
-- Capitalize First Letters
+- anagram-checker.js
+- capitalize-first-letters.js
+- count-char-frequency.js
+- first-non-repeat-char.js
+- longest-word.js
+- palindrome.js
+- remove-duplicate-char.js
+- reverse-word-sequence.js
+- substring-finder.js
+- balanced-parenthesis.js
 
 ### 🔍 Search Party
-- Linear Search
-- Binary Search
-- Peak Element
-- Rotated Array Search
-- Guess the Number
-- First/Last Occurrence
-- Find Pair with Sum
-- Count Occurrences
-- 2D Matrix Search
-- Find Sqrt
+- 2d-matrix-search.js
+- binary-search.js
+- count-occurrences.js
+- find-pair-with-sum.js
+- first-last-occurrence.js
+- find-sqrt.js
+- guess-the-number.js
+- linear-search.js
+- peak-element.js
+- rotated-array-search.js
 
 ### 🗂️ Set & Map
-- Frequency
-- Remove Duplicates
-- Intersection
-- Union
-- Repeated
-- Has Sum
-- Two/Four Sum
-- Anagram Grouping
-- Longest Substring Length
+- anagram-grouping.js
+- frequency.js
+- has-sum.js
+- intersection.js
+- longestSubstring-len.js
+- remove-duplicates.js
+- repeated.js
+- two-four-sum.js
+- union.js
 
-### 🧠 Math & Logic Boost
-- Prime Check
-- GCD/LCM
-- Armstrong
-- Sum/Reverse Digits
-- Power Calculation
-- Decimal to Binary
-- FizzBuzz
-- Sqrt
+### 🧠 Math and Logic Boost
+- armstrong-check.js
+- decimal-to-binary.js
+- fizzbuzz.js
+- gcd-lcm.js
+- power-calc.js
+- prime-check.js
+- reverse-digits.js
+- sqrt.js
+- sum-digits.js
+
+### 🧩 High Order Functions
+- chain-map-filter.js
+- count-frequency.js
+- every.js
+- find.js
+- filter.js
+- grouping.js
+- keys.js
+- map.js
+- reduce.js
+- some.js
+
+### 🗃️ Object & JSON
+- check-equality.js
+- count-words.js
+- deep-clone.js
+- feth-parse-json.js
+- merge-objects.js
+- object-to-array.js
+- sum-object-values.js
+- swap-key-value.js
+
+### ♻️ Recursion Basics
+- count-elements.js
+- factorial.js
+- fibonacci.js
+- flatten-nested-array.js
+- gcd.js
+- palindrome.js
+- power.js
+- reverse-string.js
+- sorted-array-check.js
+- sum-of-digits.js
+
+### 🦴 Linked List
+- add-no-as-list.js
+- singly-linked.js
+
+### 🏗️ Stack Challenges
+- balanced-brackets.js
+- infix-postfix.js
+- minStack.js
+- queue.js
+- stack-with-array.js
+
+### 🏗️ Queue Mastery
+- circular-queue.js
+- deque.js
+- queue-in-array.js
+- rotten-oranges.js
+- stack-queues.js
+
+### 🌳 Tree Basics
+- balanced.js
+- count-nodes.js
+- height.js
+- inordered.js
+- lca.js
+- mirror.js
+- postordered.js
+- preordered.js
+
+### 📈 Graph Starter
+- (folder present, content to be added)
+
+### 🛠️ Basic Warmups
+- area-calculator.js
+- fibonacci-sequence.js
 
 ---
-
-🛠️ **Mini Projects:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Calculator  
-&nbsp;&nbsp;&nbsp;&nbsp;• To-do list  
-&nbsp;&nbsp;&nbsp;&nbsp;• Number guessing game
-
-🌐 **DOM Manipulation:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Event handling
-
-💻 **Command-Line I/O:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Using Node.js (`readline`)
-
-📊 **Clean Output:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Formatted tables with `console.table`
-
-🔢 **Fibonacci Sequence Generator**
-
-♻️ **Recursion Basics:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Factorial, Fibonacci, palindrome, power, flatten nested array, reverse string, sum of digits, count elements, sorted array check, GCD
-
-🧩 **High Order Functions:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• map, filter, reduce, find, some, every, keys, count frequency, chain map/filter, grouping
-
-🗃️ **Object & JSON:**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Object to array, sum object values, swap key/value, filter keys by value, deep clone, merge objects, fetch & parse JSON
 
 💬 **Well-Commented Code:**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Every file includes clear, helpful comments
