@@ -10,7 +10,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 ---
 
 ### 📚 Array Mastery
-- [find-missing-numbers.js](Array%20Mastery/find-missing-numbers.js)
+- find-missing-numbers.js
 - frequency.js
 - largest-smallest.js
 - merge-sorted-arr.js
