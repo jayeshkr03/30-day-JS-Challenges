@@ -9,142 +9,235 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ---
 
-### 📚 Array Mastery
-- find-missing-numbers.js
-- frequency.js
-- largest-smallest.js
-- merge-sorted-arr.js
-- remove-duplicates.js
-- reverse-array.js
-- rotate-array.js
-- second-largest-number.js
-- sum-array-numbers.js
-- sorted-array.js
+<details>
+<summary>📚 <b>Array Mastery</b></summary>
 
-### 🧮 Sorting Fun
-- alphabetic-sort.js
-- bubble.js
-- insertion.js
-- linear-object-sort.js
-- merge.js
-- object-sort.js
-- quick.js
-- selection.js
+- Find missing numbers  
+- Frequency counter  
+- Find largest & smallest  
+- Merge sorted arrays  
+- Remove duplicates  
+- Reverse array  
+- Rotate array  
+- Find second largest number  
+- Check sorted array  
+- Sum of array numbers  
 
-### ✨ String Power
-- anagram-checker.js
-- capitalize-first-letters.js
-- count-char-frequency.js
-- first-non-repeat-char.js
-- longest-word.js
-- palindrome.js
-- remove-duplicate-char.js
-- reverse-word-sequence.js
-- substring-finder.js
-- balanced-parenthesis.js
+</details>
 
-### 🔍 Search Party
-- 2d-matrix-search.js
-- binary-search.js
-- count-occurrences.js
-- find-pair-with-sum.js
-- first-last-occurrence.js
-- find-sqrt.js
-- guess-the-number.js
-- linear-search.js
-- peak-element.js
-- rotated-array-search.js
+<details>
+<summary>🧮 <b>Sorting Fun</b></summary>
 
-### 🗂️ Set & Map
-- anagram-grouping.js
-- frequency.js
-- has-sum.js
-- intersection.js
-- longestSubstring-len.js
-- remove-duplicates.js
-- repeated.js
-- two-four-sum.js
-- union.js
+- Alphabetic sort  
+- Bubble sort  
+- Insertion sort  
+- Merge sort  
+- Object sort  
+- Quick sort  
+- Selection sort  
 
-### 🧠 Math and Logic Boost
-- armstrong-check.js
-- decimal-to-binary.js
-- fizzbuzz.js
-- gcd-lcm.js
-- power-calc.js
-- prime-check.js
-- reverse-digits.js
-- sqrt.js
-- sum-digits.js
+</details>
 
-### 🧩 High Order Functions
-- chain-map-filter.js
-- count-frequency.js
-- every.js
-- find.js
-- filter.js
-- grouping.js
-- keys.js
-- map.js
-- reduce.js
-- some.js
+<details>
+<summary>✨ <b>String Power</b></summary>
 
-### 🗃️ Object & JSON
-- check-equality.js
-- count-words.js
-- deep-clone.js
-- feth-parse-json.js
-- merge-objects.js
-- object-to-array.js
-- sum-object-values.js
-- swap-key-value.js
+- Anagram checker  
+- Balanced parenthesis  
+- Capitalize first letters  
+- Count character frequency  
+- First non-repeating character  
+- Find longest word  
+- Palindrome checker  
+- Remove duplicate characters  
+- Reverse word sequence  
+- Substring finder  
 
-### ♻️ Recursion Basics
-- count-elements.js
-- factorial.js
-- fibonacci.js
-- flatten-nested-array.js
-- gcd.js
-- palindrome.js
-- power.js
-- reverse-string.js
-- sorted-array-check.js
-- sum-of-digits.js
+</details>
 
-### 🦴 Linked List
-- add-no-as-list.js
-- singly-linked.js
+<details>
+<summary>🔍 <b>Search Party</b></summary>
 
-### 🏗️ Stack Challenges
-- balanced-brackets.js
-- infix-postfix.js
-- minStack.js
-- queue.js
-- stack-with-array.js
+- 2D matrix search  
+- Binary search  
+- Count occurrences  
+- Find pair with given sum  
+- Find square root  
+- First and last occurrence  
+- Guess the number  
+- Linear search  
+- Peak element  
+- Rotated array search  
 
-### 🏗️ Queue Mastery
-- circular-queue.js
-- deque.js
-- queue-in-array.js
-- rotten-oranges.js
-- stack-queues.js
+</details>
 
-### 🌳 Tree Basics
-- balanced.js
-- count-nodes.js
-- height.js
-- inordered.js
-- lca.js
-- mirror.js
-- postordered.js
-- preordered.js
+<details>
+<summary>🗂️ <b>Set & Map</b></summary>
 
-### 📈 Graph Starter
-- (folder present, content to be added)
+- Group anagrams  
+- Four sum problem  
+- Frequency map  
+- Has sum  
+- Intersection of sets  
+- Longest substring length  
+- Remove duplicates  
+- Find repeated elements  
+- Two sum problem  
+- Union of sets  
 
-### 🛠️ Basic Warmups
-- area-calculator.js
-- fibonacci-sequence.js
+</details>
+
+<details>
+<summary>🧠 <b>Math and Logic Boost</b></summary>
+
+- Armstrong number check  
+- Decimal to binary conversion  
+- FizzBuzz  
+- GCD & LCM  
+- Power calculation  
+- Prime check  
+- Reverse digits  
+- Square root calculation  
+- Sum of numbers  
+
+</details>
+
+<details>
+<summary>🧩 <b>High Order Functions</b></summary>
+
+- Chain map & filter  
+- Count frequency  
+- Every  
+- Filter  
+- Find  
+- Grouping  
+- Keys  
+- Map  
+- Reduce  
+- Some  
+
+</details>
+
+<details>
+<summary>🗃️ <b>Object & JSON</b></summary>
+
+- Check object equality  
+- Count words in object  
+- Deep clone object  
+- Fetch & parse JSON  
+- Flatten nested object  
+- Keys greater than X  
+- Merge objects  
+- Object to array  
+- Sum object values  
+- Swap key-value pairs  
+
+</details>
+
+<details>
+<summary>♻️ <b>Recursion Basics</b></summary>
+
+- Count elements recursively  
+- Factorial (recursive)  
+- Flatten nested array  
+- Fibonacci (recursive)  
+- GCD (recursive)  
+- Palindrome (recursive)  
+- Power (recursive)  
+- Reverse string (recursive)  
+- Check sorted array (recursive)  
+- Sum of digits (recursive)  
+
+</details>
+
+<details>
+<summary>🦴 <b>Linked List</b></summary>
+
+- Add numbers as linked list  
+- Detect cycle in linked list  
+- Find middle node  
+- Intersection of linked lists  
+- Merge sorted linked lists  
+- Palindrome linked list  
+- Remove node from end  
+- Reverse linked list  
+- Singly linked list basics  
+
+</details>
+
+<details>
+<summary>🏗️ <b>Stack Challenges</b></summary>
+
+- Balanced brackets  
+- Celebrity problem  
+- Evaluate expressions  
+- Infix to postfix conversion  
+- Largest rectangle in histogram  
+- Min stack  
+- Queue using stack  
+- Stack with array  
+- Valid parentheses  
+
+</details>
+
+<details>
+<summary>🏗️ <b>Queue Mastery</b></summary>
+
+- Circular queue  
+- Deque (double-ended queue)  
+- First non-repeating character in stream  
+- Number of islands (BFS)  
+- Queue using array  
+- Rotten oranges problem  
+- Sliding window maximum  
+- Snake and ladder game  
+- Stack using queues  
+
+</details>
+
+<details>
+<summary>🌳 <b>Tree Basics</b></summary>
+
+- Check if tree is balanced  
+- Count nodes in tree  
+- Find height of tree  
+- Inorder traversal  
+- Lowest common ancestor  
+- Mirror tree  
+- Postorder traversal  
+- Preorder traversal  
+
+</details>
+
+<details>
+<summary>📈 <b>Graph Starter</b></summary>
+
+- Adjacency list  
+- Breadth-first search (BFS)  
+- Check bipartite graph  
+- Detect cycle (directed & undirected)  
+- Depth-first search (DFS)  
+- Dijkstra's algorithm  
+- Flood fill  
+- Shortest path  
+- Topological sort  
+
+</details>
+
+<details>
+<summary>🛠️ <b>Basic Warmups</b></summary>
+
+- Area calculator  
+- Count vowels  
+- Even or odd check  
+- Factorial  
+- Fibonacci sequence  
+- Find maxima  
+- Palindrome check  
+- Reverse string  
+- Simple interest calculator  
+- Sum from 1 to n  
+
+</details>
 
 ---
 
