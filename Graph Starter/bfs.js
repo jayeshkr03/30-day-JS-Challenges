@@ -1,7 +1,7 @@
 // bfs traversal in graph 
 
 function bfs(graph, start) {
-    let visited = new Set();
+    let visited = new Set(); // to keep seen iteams
     let queue = [start];
 
     while (queue.length > 0) {
