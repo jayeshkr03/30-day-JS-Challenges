@@ -2,16 +2,16 @@
 
 function minCostClimbingStairs(cost) {
   const n = cost.length;
-  let dp = new Array(n);
+  let arr = new Array(n);
 
-  dp[0] = cost[0];
-  dp[1] = cost[1];
+  arr[0] = cost[0];
+  arr[1] = cost[1];
 
   for (let i = 2; i < n; i++) {
-    dp[i] = cost[i] + Math.min(dp[i - 1], dp[i - 2]);
+    arr[i] = cost[i] + Math.min(arr[i - 1], arr[i - 2]);
   }
 
-  return Math.min(dp[n - 1], dp[n - 2]);
+  return Math.min(arr[n - 1], arr[n - 2]);
 }
 
 console.log(minCostClimbingStairs([10, 15, 20]));

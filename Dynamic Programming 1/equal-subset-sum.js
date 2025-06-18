@@ -5,16 +5,16 @@ function canPartition(nums) {
   if (total % 2 !== 0) return false;
 
   let target = total / 2;
-  let dp = new Array(target + 1).fill(false);
-  dp[0] = true;
+  let arr = new Array(target + 1).fill(false);
+  arr[0] = true;
 
   for (let num of nums) {
     for (let j = target; j >= num; j--) {
-      dp[j] = dp[j] || dp[j - num];
+      arr[j] = arr[j] || arr[j - num];
     }
   }
 
-  return dp[target];
+  return arr[target];
 }
 
 console.log(canPartition([1, 5, 11, 5])); 
