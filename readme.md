@@ -255,4 +255,4 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ***
 
-*Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/) (Bhavnagar,
+*Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/) (Bhavnagar, Gujarat-IN).*
