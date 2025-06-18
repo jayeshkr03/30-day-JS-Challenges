@@ -14,4 +14,4 @@ function minCostClimbingStairs(cost) {
   return Math.min(dp[n - 1], dp[n - 2]);
 }
 
-console.log(minCostClimbingStairs([10, 15, 20])); 
+console.log(minCostClimbingStairs([10, 15, 20]));
