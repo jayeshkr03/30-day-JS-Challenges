@@ -13,3 +13,4 @@ function climbStairs(n) {
 }
 
 console.log(climbStairs(5));
+console.log(climbStairs(7));
