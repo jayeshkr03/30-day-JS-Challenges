@@ -10,6 +10,22 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 ---
 
 <details>
+<summary>🛠️ <b>Basic Warmups</b></summary>
+
+- Area calculator  
+- Count vowels  
+- Even or odd check  
+- Factorial  
+- Fibonacci sequence  
+- Find maxima  
+- Palindrome check  
+- Reverse string  
+- Simple interest calculator  
+- Sum from 1 to n  
+
+</details>
+
+<details>
 <summary>📚 <b>Array Mastery</b></summary>
 
 - Find missing numbers  
@@ -55,49 +71,18 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🔍 <b>Search Party</b></summary>
+<summary>🗃️ <b>Object & JSON</b></summary>
 
-- 2D matrix search  
-- Binary search  
-- Count occurrences  
-- Find pair with given sum  
-- Find square root  
-- First and last occurrence  
-- Guess the number  
-- Linear search  
-- Peak element  
-- Rotated array search  
-
-</details>
-
-<details>
-<summary>🗂️ <b>Set & Map</b></summary>
-
-- Group anagrams  
-- Four sum problem  
-- Frequency map  
-- Has sum  
-- Intersection of sets  
-- Longest substring length  
-- Remove duplicates  
-- Find repeated elements  
-- Two sum problem  
-- Union of sets  
-
-</details>
-
-<details>
-<summary>🧠 <b>Math and Logic Boost</b></summary>
-
-- Armstrong number check  
-- Decimal to binary conversion  
-- FizzBuzz  
-- GCD & LCM  
-- Power calculation  
-- Prime check  
-- Reverse digits  
-- Square root calculation  
-- Sum of numbers  
+- Check object equality  
+- Count words in object  
+- Deep clone object  
+- Fetch & parse JSON  
+- Flatten nested object  
+- Keys greater than X  
+- Merge objects  
+- Object to array  
+- Sum object values  
+- Swap key-value pairs  
 
 </details>
 
@@ -118,18 +103,17 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🗃️ <b>Object & JSON</b></summary>
+<summary>🧠 <b>Math and Logic Boost</b></summary>
 
-- Check object equality  
-- Count words in object  
-- Deep clone object  
-- Fetch & parse JSON  
-- Flatten nested object  
-- Keys greater than X  
-- Merge objects  
-- Object to array  
-- Sum object values  
-- Swap key-value pairs  
+- Armstrong number check  
+- Decimal to binary conversion  
+- FizzBuzz  
+- GCD & LCM  
+- Power calculation  
+- Prime check  
+- Reverse digits  
+- Square root calculation  
+- Sum of numbers  
 
 </details>
 
@@ -146,6 +130,38 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Reverse string (recursive)  
 - Check sorted array (recursive)  
 - Sum of digits (recursive)  
+
+</details>
+
+<details>
+<summary>🗂️ <b>Set & Map</b></summary>
+
+- Group anagrams  
+- Four sum problem  
+- Frequency map  
+- Has sum  
+- Intersection of sets  
+- Longest substring length  
+- Remove duplicates  
+- Find repeated elements  
+- Two sum problem  
+- Union of sets  
+
+</details>
+
+<details>
+<summary>🔍 <b>Search Party</b></summary>
+
+- 2D matrix search  
+- Binary search  
+- Count occurrences  
+- Find pair with given sum  
+- Find square root  
+- First and last occurrence  
+- Guess the number  
+- Linear search  
+- Peak element  
+- Rotated array search  
 
 </details>
 
@@ -224,18 +240,11 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🛠️ <b>Basic Warmups</b></summary>
+<summary>🚀 <b>Dynamic Programming 1</b></summary>
 
-- Area calculator  
-- Count vowels  
-- Even or odd check  
-- Factorial  
-- Fibonacci sequence  
-- Find maxima  
-- Palindrome check  
-- Reverse string  
-- Simple interest calculator  
-- Sum from 1 to n  
+- Fibonacci  
+- Climb stairs  
+- <i>More coming soon... (Work in progress)</i>
 
 </details>
 
@@ -246,4 +255,4 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ***
 
-*Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/) (Bhavnagar, Gujarat-IN).*
+*Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/) (Bhavnagar,
