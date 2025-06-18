@@ -244,6 +244,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 - Fibonacci  
 - Climb stairs  
+- Min Cost (Climb Stairs)
 - <i>More coming soon... (Work in progress)</i>
 
 </details>
