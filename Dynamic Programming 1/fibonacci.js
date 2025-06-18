@@ -13,4 +13,4 @@ function fibonacci(n) {
 }
 
 console.log(fibonacci(15)); 
-\console.log(fibonacci(17));  
+console.log(fibonacci(17));  
