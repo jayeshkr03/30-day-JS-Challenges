@@ -242,10 +242,23 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 <details>
 <summary>🚀 <b>Dynamic Programming 1</b></summary>
 
-- Fibonacci  
 - Climb stairs  
-- Min Cost (Climb Stairs)
-- <i>More coming soon... (Work in progress)</i>
+- Coin change  
+- Equal subset sum  
+- Fibonacci  
+- House robber  
+- Kadane's algorithm  
+- Largest common subsequence  
+- Largest increasing subsequence  
+- Min cost (climb stairs)  
+- Unique paths  
+
+</details>
+
+<details>
+<summary>🚀 <b>Dynamic Programming 2</b></summary>
+
+_I am currently working on this section. Stay tuned!_
 
 </details>
 
