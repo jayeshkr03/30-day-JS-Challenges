@@ -17,7 +17,6 @@ function minMultiply(nums) {
       }
     }
   }
-
   return box[1][n - 1];
 }
 
