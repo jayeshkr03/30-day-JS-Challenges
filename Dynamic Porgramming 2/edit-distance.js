@@ -1,3 +1,4 @@
+// edit distance using dp
 
 function editSteps(wordA, wordB) {
   let lenA = wordA.length;
@@ -16,7 +17,7 @@ function editSteps(wordA, wordB) {
       } else {
         box[i][j] = 1 + Math.min(
           box[i - 1][j],     
-          box[i][j - 1],
+          box[i][j - 1],     
           box[i - 1][j - 1]  
         );
       }
