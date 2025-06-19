@@ -258,7 +258,12 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 <details>
 <summary>🚀 <b>Dynamic Programming 2</b></summary>
 
-_I am currently working on this section. Stay tuned!_
+- 0/1 Knapsack  
+- Edit Distance  
+- Egg Drop Problem  
+- Matrix Chain Multiplication  
+- Rod Cutting Problem  
+- Subset Sum  
 
 </details>
 
