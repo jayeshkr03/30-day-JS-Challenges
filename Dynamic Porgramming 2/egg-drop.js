@@ -18,7 +18,6 @@ function eggBreak(eggs, floors) {
       }
     }
   }
-
   return box[eggs][floors];
 }
 
