@@ -21,4 +21,4 @@ function knapsack(items, space) {
 }
 
 console.log(knapsack([[60, 10], [100, 20], [120, 30]], 50)); 
-console.log(knapsack([[10, 5], [40, 4], [30, 6], [50, 3]], 10)); 
+console.log(knapsack([[10, 5], [40, 4], [30, 6], [50, 2]], 10)); 
