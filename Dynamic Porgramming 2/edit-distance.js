@@ -1,6 +1,3 @@
-//@ts-check
-
-// edit distance
 
 function editSteps(wordA, wordB) {
   let lenA = wordA.length;
@@ -18,9 +15,9 @@ function editSteps(wordA, wordB) {
         box[i][j] = box[i - 1][j - 1];
       } else {
         box[i][j] = 1 + Math.min(
-          box[i - 1][j],     // remove
-          box[i][j - 1],     // insert
-          box[i - 1][j - 1]  // replace
+          box[i - 1][j],     
+          box[i][j - 1],
+          box[i - 1][j - 1]  
         );
       }
     }
@@ -30,4 +27,4 @@ function editSteps(wordA, wordB) {
 }
 
 console.log(editSteps("horse", "ros")); 
-console.log(editSteps("intention", "execution")); 
+console.log(editSteps("intention", "execution"))
