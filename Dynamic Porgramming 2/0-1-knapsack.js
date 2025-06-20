@@ -2,7 +2,6 @@
 
 function knapsack(items, space) {
   let count = items.length;
-  let count = items.length;
 
   let box = Array(count + 1).fill().map(() => Array(space + 1).fill(0));
 
