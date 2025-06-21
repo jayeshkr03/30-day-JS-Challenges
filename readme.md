@@ -239,7 +239,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 </details>
 
-<details open>
+<details >
 <summary>🚀 <b>Dynamic Programming 1</b></summary>
 
 - Climb stairs  
@@ -255,7 +255,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 </details>
 
-<details open>
+<details >
 <summary>🧩 <b>Dynamic Programming 2</b></summary>
 
 - 0/1 Knapsack  
@@ -264,8 +264,10 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Matrix Chain Multiplication  
 - Rod Cutting Problem  
 - Subset Sum  
-
-</details>
+- Palindromic Substring  
+- Palindrome Partitioning  
+- Wildcard Pattern Matching  
+- Word Break
 
 ---
 
