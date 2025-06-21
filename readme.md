@@ -269,6 +269,8 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 - Wildcard Pattern Matching  
 - Word Break
 
+</details>
+
 ---
 
 💬 **Well-Commented Code:**  
