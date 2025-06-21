@@ -10,7 +10,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 ---
 
 <details>
-<summary>🛠️ <b>Basic Warmups</b></summary>
+<summary>🔥 <b>Basic Warmups</b></summary>
 
 - Area calculator  
 - Count vowels  
@@ -26,7 +26,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>📚 <b>Array Mastery</b></summary>
+<summary>🧮 <b>Array Mastery</b></summary>
 
 - Find missing numbers  
 - Frequency counter  
@@ -42,7 +42,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🧮 <b>Sorting Fun</b></summary>
+<summary>🔢 <b>Sorting Fun</b></summary>
 
 - Alphabetic sort  
 - Bubble sort  
@@ -55,7 +55,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>✨ <b>String Power</b></summary>
+<summary>📝 <b>String Power</b></summary>
 
 - Anagram checker  
 - Balanced parenthesis  
@@ -71,7 +71,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🗃️ <b>Object & JSON</b></summary>
+<summary>🗂️ <b>Object & JSON</b></summary>
 
 - Check object equality  
 - Count words in object  
@@ -87,7 +87,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🧩 <b>High Order Functions</b></summary>
+<summary>⚡ <b>High Order Functions</b></summary>
 
 - Chain map & filter  
 - Count frequency  
@@ -118,7 +118,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>♻️ <b>Recursion Basics</b></summary>
+<summary>🔁 <b>Recursion Basics</b></summary>
 
 - Count elements recursively  
 - Factorial (recursive)  
@@ -134,7 +134,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🗂️ <b>Set & Map</b></summary>
+<summary>🔗 <b>Set & Map</b></summary>
 
 - Group anagrams  
 - Four sum problem  
@@ -150,7 +150,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🔍 <b>Search Party</b></summary>
+<summary>🔎 <b>Search Party</b></summary>
 
 - 2D matrix search  
 - Binary search  
@@ -166,7 +166,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🦴 <b>Linked List</b></summary>
+<summary>🔗 <b>Linked List</b></summary>
 
 - Add numbers as linked list  
 - Detect cycle in linked list  
@@ -181,7 +181,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🏗️ <b>Stack Challenges</b></summary>
+<summary>📚 <b>Stack Challenges</b></summary>
 
 - Balanced brackets  
 - Celebrity problem  
@@ -196,7 +196,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🏗️ <b>Queue Mastery</b></summary>
+<summary>🚦 <b>Queue Mastery</b></summary>
 
 - Circular queue  
 - Deque (double-ended queue)  
@@ -225,7 +225,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>📈 <b>Graph Starter</b></summary>
+<summary>🕸️ <b>Graph Starter</b></summary>
 
 - Adjacency list  
 - Breadth-first search (BFS)  
@@ -256,7 +256,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 </details>
 
 <details>
-<summary>🚀 <b>Dynamic Programming 2</b></summary>
+<summary>🧩 <b>Dynamic Programming 2</b></summary>
 
 - 0/1 Knapsack  
 - Edit Distance  
@@ -274,4 +274,4 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 ***
 
-*Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/) (Bhavnagar, Gujarat-IN).*
+*Internship assignment at [Sparrow Softtech](https://sparrowsofttech.com/)
