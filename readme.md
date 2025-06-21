@@ -239,7 +239,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 </details>
 
-<details>
+<details open>
 <summary>🚀 <b>Dynamic Programming 1</b></summary>
 
 - Climb stairs  
@@ -255,7 +255,7 @@ This repository contains my daily JavaScript tasks and mini-projects completed a
 
 </details>
 
-<details>
+<details open>
 <summary>🧩 <b>Dynamic Programming 2</b></summary>
 
 - 0/1 Knapsack  
