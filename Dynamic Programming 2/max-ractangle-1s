@@ -1,0 +1,50 @@
+function maxRect(grid) {
+  let rows = grid.length;
+  let cols = grid[0].length;
+  let bars = new Array(cols).fill(0);
+  let max = 0;
+
+  for (let i = 0; i < rows; i++) {
+    for (let j = 0; j < cols; j++) {
+      if (grid[i][j] === "1") {
+        bars[j] += 1;
+      } else {
+        bars[j] = 0;
+      }
+    }
+    max = Math.max(max, biggestBar(bars));
+  }
+
+  return max;
+}
+
+function biggestBar(heights) {
+  let stack = [];
+  let max = 0;
+  let i = 0;
+
+  while (i <= heights.length) {
+    let h = (i === heights.length) ? 0 : heights[i];
+    if (stack.length === 0 || h >= heights[stack[stack.length - 1]]) {
+      stack.push(i++);
+    } else {
+      let top = stack.pop();
+      let width = stack.length === 0 ? i : i - stack[stack.length - 1] - 1;
+      max = Math.max(max, heights[top] * width);
+    }
+  }
+
+  return max;
+}
+
+console.log(maxRect([
+  ["1", "0", "1", "0", "0"],
+  ["1", "0", "1", "1", "1"],
+  ["1", "1", "1", "1", "1"],
+  ["1", "0", "0", "1", "0"]
+])); // 6
+
+console.log(maxRect([
+  ["0", "1"],
+  ["1", "0"]
+])); // 1
