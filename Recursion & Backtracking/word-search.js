@@ -34,3 +34,4 @@ let board = [
 console.log(searchWord(board, "ABCCED")); 
 console.log(searchWord(board, "SEE"));    
 console.log(searchWord(board, "ABCB"));   
+
