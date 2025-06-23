@@ -16,10 +16,6 @@ function makeSets(nums) {
   return answer;
 }
 
-// console.table(makeSets([1, 2]));    
-// console.table(makeSets([1, 2, 3])); 
-
-
 let example = makeSets([1, 2, 3]);
 
 example.forEach((group, i) => {
