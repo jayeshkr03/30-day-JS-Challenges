@@ -7,21 +7,20 @@ async function getSkyFromStack(cityName) {
     try {
         let answer = await fetch(link)
         if (!answer.ok) {
-            throw new Error("bad http " + answer.status)
+            throw new Error("Error: " + answer.status)
         }
 
         let info = await answer.json()
 
         if (info.error) {
-            console.log("stack no work: " + info.error.info)
+            console.log("Warning: " + info.error.info)
             return
         }
 
         console.log("City: " + info.location.name + ", " + info.location.country)
         console.log("Temp: " + info.current.temperature + "°C")
-        console.log("Sky look: " + info.current.weather_descriptions[0])
-    } catch (uhOh) {
-        console.log("Fetch go boom: " + uhOh)
+    } catch (e) {
+        console.log("Error: " + e)
     }
 }
 
