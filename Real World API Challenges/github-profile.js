@@ -7,7 +7,7 @@ function getGitHuman(usernameBox) {
         })
         .then(function(gitData) {
             if (gitData.message === "Not Found") {
-                console.log("No git human found with that name")
+                console.log("No git account found.")
                 return
             }
 
@@ -17,8 +17,13 @@ function getGitHuman(usernameBox) {
             console.log("Repos: " + gitData.public_repos)
         })
         .catch(function(explode) {
-            console.log("Something went splat: " + explode)
+            console.log("Something went wrong: " + explode)
         })
 }
 
+console.log("")
+console.log("")
+console.log("")
 getGitHuman("fizzflip")
+getGitHuman("hehe")
+getGitHuman("krjayesh")
