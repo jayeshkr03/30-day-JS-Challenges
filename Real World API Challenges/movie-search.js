@@ -14,17 +14,15 @@ function findMyMovie(movieName) {
                 return
             }
 
-            console.log("Title: " + movieBox.Title)
-            console.log("Year: " + movieBox.Year)
-            console.log("Type: " + movieBox.Type)
+            console.log("Name: " + movieBox.Title + ", " + movieBox.Year)
             console.log("Plot: " + movieBox.Plot)
+            console.log("")
         })
         .catch(function(errorBag) {
             console.log("Movie mess up: " + errorBag)
         })
 }
 
-console.log("Searching movie now...")
 findMyMovie("Sandeep")
-console.log("Searching again for fun...")
 findMyMovie("Star Wars 2")
+console.log("Search results:")
